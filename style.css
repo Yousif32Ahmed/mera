@@ -1,0 +1,37 @@
+
+body {
+  background-color: #000000;
+
+}
+h1 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+/*
+.image{
+    border: 5px solid #ffffff;
+    display: block; margin: 0 auto;
+    width: 50%;
+    height: auto;
+}
+*/
+p {
+  color: #ffffff;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+div {
+  width: 50%;
+  margin-left: 25%
+
+}
+
+ img {
+    border: 5px solid white;
+    width:100%
+ }
